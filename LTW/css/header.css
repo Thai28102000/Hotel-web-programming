@@ -1,0 +1,36 @@
+/* CSS Document */
+
+.header{
+	background: url(../images/BGnen.png) no-repeat center ;
+	width: 1000px;
+	height: 172px;
+		
+}	
+
+#logo{
+	float: left;
+	padding: 30px;	
+}
+
+.slider{
+	width: 600px;
+	height: 164px;
+	float: left;
+	padding: 0 0 0 50px;
+}
+
+.top_divider{
+	float: left;
+	width: 20px;
+	height: 172px;
+}
+
+.slider_content{
+	width: 400px;
+	float: left;
+	padding: 15px 30px 0 30px;	
+}
+
+
+
+

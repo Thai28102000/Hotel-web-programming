@@ -1,0 +1,86 @@
+/* CSS Document */
+
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+clear{
+	clear: both;
+}
+
+/*----------------------TOP-----------------------*/
+
+
+
+.languages{
+	float: left;
+	width: 200px;
+	padding-top: 10px;
+}
+
+.languages div{
+	float: left;
+	color: ;
+	font-weight:bold;
+	padding: 0 5px 0 0;
+}
+
+.languages a{
+	float: right;
+	display: block;
+	padding: 0 5px 
+}
+
+
+.search{
+	width: 370 px;
+	height: 32px;
+	border-radius: 5px;
+	float: right;
+	background:url(../images/BGsearch.png) no-repeat center ;
+	margin-right: 20px;
+	padding: 0 5px
+}
+
+.search .search_text{
+	float: left;
+	width: 110px;
+	color: ;
+	padding: 5px 0 0 15px
+}
+
+.search .search_text a{
+	color : black;
+	font-weight:bold;
+	text-decoration: none;
+}
+
+.search .search_input{
+	width: 182px;
+	height: 20px;
+	margin-top: 5px;
+	border: 1px solid black; 
+	float: left;
+	/*border-bottom-color: white;
+	border-right-color: white;*/
+}
+
+.search .search_bt{
+	float: left;
+	padding: 2px 0 0 0;
+}
+
+ul li a{
+	font-weight: bold;
+	margin-top : 1px;;
+}
+
+
+
+
+
+
+
+
+
